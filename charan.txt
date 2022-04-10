@@ -1,12 +1,27 @@
+add new line
+
+
+
+
+
+
+
+
 this is new file 
 
+
+
+
+
+
+
+
+
+
+
+
+
 :wq
-
-
-
-
-
-
 
 
 
